@@ -36,5 +36,13 @@
 |deleting the current word|`ciw`|
 |deleting all contents inside the bracket|`ci{`|
 
+## Entering Visual mode
+|Function|Key|
+|:--|:--|
+|enter visual mode|`v`|
+|enter visual line mode|`V`|
+|enter visual block mode|`Ctrl`+`v`|
+|select the latest block|`gv`|
+
 ## Exit to Normal mode
 `Esc` or `Ctrl` + `[`
