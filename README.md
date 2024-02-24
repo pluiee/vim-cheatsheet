@@ -12,6 +12,7 @@
 |first non-blank character of the line|`^`|
 |end of the line|`$`|
 |27th line|`27gg` or `27G`|
+|move 5 lines down|`5j`|
 |start of the next word|`w`|
 |start of the previous word|`b`|
 |start of the file|`gg`|
@@ -43,6 +44,14 @@
 |enter visual line mode|`V`|
 |enter visual block mode|`Ctrl`+`v`|
 |select the latest block|`gv`|
+
+## Surround
+|Function|Key|
+|:--|:--|
+|surround current word with quotes|`ysiw"`|
+|surround current paragraph with brackets|`ysip{`|
+|surround current line with parantheses|`yss(`|
+|surround visual block with quotes|`S"`|
 
 ## Exit to Normal mode
 `Esc` or `Ctrl` + `[`
