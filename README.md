@@ -14,7 +14,8 @@
 |27th line|`27gg` or `27G`|
 |move 5 lines down|`5j`|
 |start of the next word|`w`|
-|start of the previous word|`b`|
+|start of the current word|`b`|
+|end of the current word|`e`|
 |start of the file|`gg`|
 |end of the file|`G`|
 |half page up|`Ctrl` + `u`|
